@@ -23,4 +23,8 @@
  ~~~
  make clean
  ~~~
-  
+## Problem 1
+First parse then see how to use the thread.
+
+## Problema 2: Divide and conquer
+The idea is to do a merge sort but using threads. Whenever you divide the array use a thread to solve the sub-array.
